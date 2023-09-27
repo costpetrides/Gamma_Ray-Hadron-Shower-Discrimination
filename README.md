@@ -1,5 +1,4 @@
 # MAGIC Gamma Telescope
-----
 
 ## Dataset Information
 
