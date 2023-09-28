@@ -1,4 +1,6 @@
-# MAGIC Gamma Telescope
+# Machine Learning for Gamma-Ray and Hadron Shower Discrimination in Cherenkov Telescopes
+
+
 
 1. Title of Database: MAGIC gamma telescope data 2004
 
