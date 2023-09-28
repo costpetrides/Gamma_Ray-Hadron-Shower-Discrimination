@@ -1,6 +1,6 @@
 # Machine Learning for Gamma-Ray and Hadron Shower Discrimination in Cherenkov Telescopes
 
-1. [Technical Report of MAGIC-Telescope](https://mediatum.ub.tum.de/doc/603045/603045.pdf)
+1. [Technical Report of MAGIC-Telescope](https://arxiv.org/abs/0907.1211)
 
 2. [The MAGIC Telescope: development of new technologies and first observations](https://mediatum.ub.tum.de/doc/603045/603045.pdf)
 
