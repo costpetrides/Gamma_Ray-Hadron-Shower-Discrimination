@@ -5,6 +5,7 @@
 2. [The MAGIC Telescope: development of new technologies and first observations](https://mediatum.ub.tum.de/doc/603045/603045.pdf)
 
 3. Machine Learning Methods:
+   
    i. K-Nearest Neighbors (KNN)
    ii. 
    
