@@ -4,9 +4,13 @@
 
 2. [The MAGIC Telescope: development of new technologies and first observations](https://mediatum.ub.tum.de/doc/603045/603045.pdf)
 
-3. Title of Database: MAGIC gamma telescope data 2004
+3. Machine Learning Methods:
+   i. K-Nearest Neighbors (KNN)
+   ii. 
+   
+5. Title of Database: MAGIC gamma telescope data 2004
 
-4. Sources:
+6. Sources:
 
    (a) Original owner of the database:
 
@@ -24,7 +28,7 @@
 
    (c) Date received: May 2007
 
-5. Past Usage:
+7. Past Usage:
 
    (a) Bock, R.K., Chilingarian, A., Gaug, M., Hakl, F., Hengstebeck, T.,
        Jirina, M., Klaschka, J., Kotrc, E., Savicky, P., Towers, S.,
@@ -43,7 +47,7 @@
        Proceedings of ICANNGA 2007, Warsaw, (Ed.: Beliczynski et. al),
        Part I, LNCS 4431, pp. 721-729.
 
-6. Relevant Information:
+8. Relevant Information:
 
    The data are MC generated (see below) to simulate registration of high energy
    gamma particles in a ground-based atmospheric Cherenkov gamma telescope using the
@@ -79,11 +83,11 @@
    The program was run with parameters allowing to observe events with energies down
    to below 50 GeV.
 
-7. Number of Instances: 19020
+9. Number of Instances: 19020
 
-8. Number of Attributes: 11 (including the class)
+10. Number of Attributes: 11 (including the class)
 
-9. Attribute information:
+11. Attribute information:
 
     1.  fLength:  continuous  # major axis of ellipse [mm]
     2.  fWidth:   continuous  # minor axis of ellipse [mm] 
@@ -97,9 +101,9 @@
    10.  fDist:    continuous  # distance from origin to center of ellipse [mm]
    11.  class:    g,h         # gamma (signal), hadron (background)
 
-10. Missing Attribute Values: None
+11. Missing Attribute Values: None
 
-11. Class Distribution:
+12. Class Distribution:
 
    g = gamma (signal):     12332
    h = hadron (background): 6688
