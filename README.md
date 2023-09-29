@@ -8,8 +8,6 @@
    
    i. K-Nearest Neighbors (KNN)
    
-   ii. 
-   
 5. Title of Database: MAGIC gamma telescope data 2004
 
 6. Sources:
