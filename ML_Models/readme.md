@@ -16,7 +16,7 @@
      
 7. [Gradient Boosting](https://github.com/costpetrides/Machine-Learning-Course/tree/main/CatBoost)
       
-   - [XGBoost](https://github.com/costpetrides/Machine-Learning-Course/tree/main/XGBoost)
+  - [XGBoost](https://github.com/costpetrides/Machine-Learning-Course/tree/main/XGBoost)
   -  [LightGBM](https://github.com/costpetrides/Machine-Learning-Course/blob/main/LightGBM/Classification.ipynb)
      
      
