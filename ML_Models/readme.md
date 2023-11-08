@@ -2,17 +2,17 @@
 ## Supervised Learning
 
      
-1.  [K-Nearest Neighbors (KNN)](https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination/blob/main/ML_Models/KNN.pkl))
+1.  [K-Nearest Neighbors (KNN)](https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination/blob/main/ML_Models/KNN.pkl)
      
-2. [Naive Bayes](https://github.com/costpetrides/Machine-Learning-Course/tree/main/Naive_Bayes)
+2. [Naive Bayes](https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination/blob/main/ML_Models/GaussNB.pkl)
      
-3. [Logistic Regression](https://github.com/costpetrides/Machine-Learning-Course/tree/main/Log_Regr)
+3. [Logistic Regression](https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination/blob/main/ML_Models/LogReg.pkl)
      
-4. [Linear Discriminant Analysis (LDA)](https://github.com/costpetrides/Machine-Learning-Course/tree/main/LDA)
+4. [Linear Discriminant Analysis (LDA)](https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination/blob/main/ML_Models/LDA.pkl)
      
-5. [Support Vector Machines (SVM)](https://github.com/costpetrides/Machine-Learning-Course/tree/main/SVM)
+5. [Support Vector Machines (SVM)](https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination/blob/main/ML_Models/LSVM.pkl)
      
-6. [Random Forest Classification](https://github.com/costpetrides/Machine-Learning-Course/tree/main/RFC)
+6. [Random Forest Classification](https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination/blob/main/ML_Models/RFC_400.pkl.zip)
      
 
      
