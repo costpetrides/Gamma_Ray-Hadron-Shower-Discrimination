@@ -4,7 +4,7 @@
 
 2. [The MAGIC Telescope: development of new technologies and first observations](https://mediatum.ub.tum.de/doc/603045/603045.pdf)
 
-3. Machine Learning Methods:
+## Machine Learning Methods:
    
  -  [K-Nearest Neighbors (KNN)](https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination/blob/main/ML_Models/KNN.pkl)
      
@@ -19,10 +19,11 @@
  - [Random Forest Classification](https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination/blob/main/ML_Models/RFC_400.pkl.zip)
      
 
-   
-5. Title of Database: MAGIC gamma telescope data 2004
+##  Database
 
-6. Sources:
+1. Title of Database: MAGIC gamma telescope data 2004
+   
+2. Sources:
 
    (a) Original owner of the database:
 
@@ -40,7 +41,7 @@
 
    (c) Date received: May 2007
 
-7. Past Usage:
+3. Past Usage:
 
    (a) Bock, R.K., Chilingarian, A., Gaug, M., Hakl, F., Hengstebeck, T.,
        Jirina, M., Klaschka, J., Kotrc, E., Savicky, P., Towers, S.,
@@ -59,7 +60,7 @@
        Proceedings of ICANNGA 2007, Warsaw, (Ed.: Beliczynski et. al),
        Part I, LNCS 4431, pp. 721-729.
 
-8. Relevant Information:
+4. Relevant Information:
 
    The data are MC generated (see below) to simulate registration of high energy
    gamma particles in a ground-based atmospheric Cherenkov gamma telescope using the
@@ -95,11 +96,11 @@
    The program was run with parameters allowing to observe events with energies down
    to below 50 GeV.
 
-9. Number of Instances: 19020
+5. Number of Instances: 19020
 
-10. Number of Attributes: 11 (including the class)
+6. Number of Attributes: 11 (including the class)
 
-11. Attribute information:
+7. Attribute information:
 
     1.  fLength:  continuous  # major axis of ellipse [mm]
     2.  fWidth:   continuous  # minor axis of ellipse [mm] 
@@ -113,9 +114,9 @@
    10.  fDist:    continuous  # distance from origin to center of ellipse [mm]
    11.  class:    g,h         # gamma (signal), hadron (background)
 
-11. Missing Attribute Values: None
+8. Missing Attribute Values: None
 
-12. Class Distribution:
+9. Class Distribution:
 
    g = gamma (signal):     12332
    h = hadron (background): 6688
