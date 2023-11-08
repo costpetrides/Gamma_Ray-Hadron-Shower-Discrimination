@@ -6,7 +6,19 @@
 
 3. Machine Learning Methods:
    
-   i. K-Nearest Neighbors (KNN)
+ -  [K-Nearest Neighbors (KNN)](https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination/blob/main/ML_Models/KNN.pkl)
+     
+ - [Naive Bayes](https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination/blob/main/ML_Models/GaussNB.pkl)
+     
+ - [Logistic Regression](https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination/blob/main/ML_Models/LogReg.pkl)
+     
+ - [Linear Discriminant Analysis (LDA)](https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination/blob/main/ML_Models/LDA.pkl)
+     
+ - [Support Vector Machines (SVM)](https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination/blob/main/ML_Models/LSVM.pkl)
+     
+ - [Random Forest Classification](https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination/blob/main/ML_Models/RFC_400.pkl.zip)
+     
+
    
 5. Title of Database: MAGIC gamma telescope data 2004
 
