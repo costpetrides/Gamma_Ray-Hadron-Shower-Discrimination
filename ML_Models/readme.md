@@ -2,7 +2,7 @@
 ## Supervised Learning
 
      
-1.  [K-Nearest Neighbors (KNN)](https://github.com/costpetrides/Machine-Learning-Course/tree/main/KNN)
+1.  [K-Nearest Neighbors (KNN)]((https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination/blob/main/ML_Models/KNN.pkl))
      
 2. [Naive Bayes](https://github.com/costpetrides/Machine-Learning-Course/tree/main/Naive_Bayes)
      
